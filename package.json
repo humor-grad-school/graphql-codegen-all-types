@@ -1,0 +1,20 @@
+{
+  "name": "graphql-codegen-all-types",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "SeHyun Nam <skatpgusskat@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "graphql": "^0.13.2",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/graphql": "^0.13.4"
+  }
+}
